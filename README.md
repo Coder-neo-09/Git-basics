@@ -4,6 +4,9 @@ Here's an overview of the key concepts and commands related to Git and GitHub:
 
 [Git Workflow](https://phoenixnap.com/kb/wp-content/uploads/2021/09/git-workflow.png)
 
+
+![Google image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroV7JQvlAS1wSXW3bIKdPG_lZBHkl3fZC9w&s)
+
 ## Understanding the Basics
 
 ### What are Version Control Systems?
